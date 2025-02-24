@@ -6,7 +6,7 @@ int main (){
 
     int autos = 5555;
 
-    cout << "Autos estacionados en sector C " << autos << endl;
+    cout << "Autos estacionados en sector Main " << autos << endl;
     cin >> autos;
 
     return 0;
